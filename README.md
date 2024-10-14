@@ -70,7 +70,45 @@ Untuk membeli barang, sistemnya jika barang berhasil dibeli dan ditaro ke keranj
 
 ### Function Login user
 
-![image](https://github.com/user-attachments/assets/fd17fb03-6510-4d67-ab9b-e867fdaa23e2)
+![image](https://github.com/user-attachments/assets/d4cc1c86-530c-47b9-900c-aca050d508b2)
+
+Akun anda ter detect sebagai user, disini bisa memilih 4 pilihan
+
+output:
+
+![image](https://github.com/user-attachments/assets/e90ade0f-4472-4917-9ae3-c76a536ef9c1)
+
+### Pilihan 1-4 (User)
+
+![image](https://github.com/user-attachments/assets/33c107f6-cf03-4abf-a775-d2f0de721c8a)
+
+Jika kita memilih pilihan 1: kita bisa meihat dan membeli barang dengan id yang kita input 
+
+Jika kita memilih pilihan 2: kita bisa menghapus barang yang sudah kita beli menggunakan id yang kita input
+
+Jika kita memilih pilihan 3: kita bisa melihat barang yang sudah ktia beli dan total harganya
+
+Jika kita memilih pilihan 4: kita akan logout dan kembali ke menu login
+
+output:
+
+pilihan 1:
+
+![image](https://github.com/user-attachments/assets/b58aadf1-8513-4e45-acda-ffebfaca7abc)
+
+pilihan 2:
+
+![image](https://github.com/user-attachments/assets/120d9ea4-edcb-400b-b5b8-3bdeeaf803fe)
+
+pilihan 3:
+
+![image](https://github.com/user-attachments/assets/e11917a5-fd0b-43fe-874f-5ffaf773ce3c)
+
+
+
+
+
+
 
 
 
