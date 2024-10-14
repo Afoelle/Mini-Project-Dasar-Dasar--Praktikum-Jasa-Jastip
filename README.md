@@ -1,3 +1,6 @@
+Nama: Raffy Seyhan Islamy Pasha
+NIM: 2409116043
+
 # Mini-Project-Dasar-Dasar--Praktikum-Jasa-Jastip
 
 ![diagram minpro 2 drawio (1)](https://github.com/user-attachments/assets/6b152f89-745c-4edf-a2e8-7bfa2584f4a4)
