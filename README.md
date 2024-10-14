@@ -92,15 +92,15 @@ Jika kita memilih pilihan 4: kita akan logout dan kembali ke menu login
 
 output:
 
-pilihan 1:
+### pilihan 1:
 
 ![image](https://github.com/user-attachments/assets/b58aadf1-8513-4e45-acda-ffebfaca7abc)
 
-pilihan 2:
+### pilihan 2:
 
 ![image](https://github.com/user-attachments/assets/120d9ea4-edcb-400b-b5b8-3bdeeaf803fe)
 
-pilihan 3:
+### pilihan 3:
 
 ![image](https://github.com/user-attachments/assets/e11917a5-fd0b-43fe-874f-5ffaf773ce3c)
 
@@ -130,28 +130,28 @@ Jika kita memilih pilihan 5: kita akan kembali ke menu login
 
 output:
 
-Pilihan 1.1 :
+### Pilihan 1.1:
 
 ![image](https://github.com/user-attachments/assets/88187de0-cdf6-4dcb-ac15-e99e36b5dce0)
 
-Pilihan 1.2 :
+### Pilihan 1.2:
 
 ![image](https://github.com/user-attachments/assets/493e4d44-b4ea-44b0-b801-e8bc00c67b85)
 
 
-Pilihan 2:
+### Pilihan 2:
 
 ![image](https://github.com/user-attachments/assets/03f5b688-2768-45b1-8d17-29c8743832ec)
 
-Pilihan 3.1
+### Pilihan 3.1:
 
 ![image](https://github.com/user-attachments/assets/deb2eafd-a050-4e36-a4cd-020fead4b256)
 
-Pilihan 3.2
+### Pilihan 3.2:
 
 ![image](https://github.com/user-attachments/assets/d7bb989a-e127-47b3-bb2f-de7d795e2b7c)
 
-Pilihan 4
+### Pilihan 4:
 
 ![image](https://github.com/user-attachments/assets/6c9aa970-1a02-4185-990f-0bb7c611cc18)
 
