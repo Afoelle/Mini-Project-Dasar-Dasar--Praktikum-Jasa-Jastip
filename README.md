@@ -104,6 +104,66 @@ pilihan 3:
 
 ![image](https://github.com/user-attachments/assets/e11917a5-fd0b-43fe-874f-5ffaf773ce3c)
 
+### Login admin
+
+![image](https://github.com/user-attachments/assets/8fdc12f9-701d-4e53-aa02-0a0e8b8b2071)
+
+Akun anda terdetect sebagai admin, disini bisa memilih 5 pilihan
+
+output:
+
+![image](https://github.com/user-attachments/assets/27c0d39a-123e-4365-ae94-74643016ea63)
+
+### Pilihan 1-5 user
+
+![image](https://github.com/user-attachments/assets/dabd1143-9be6-4a3d-adb2-29ab8b671a4b)
+
+Jika kita memilih pilihan 1: akan muncul 2 pilihan lagi untuk melihat barang yang dijual dan barang yang sudah terjual
+
+Jika kita memilih pilihan 2: kita bisa menambahkan barang dengan memasukan nama, harga dan jumlah
+
+Jika kita memilih pilihan 3: akan muncul 2 pilihan lagi untuk meng-update barang yang dijual atau terjual dengan memasukan nama, harga dan jumlah
+
+Jika kita meMilih pilihan 4: kita bisa menghapus barang yang dijual dengan id barang
+
+Jika kita memilih pilihan 5: kita akan kembali ke menu login
+
+output:
+
+Pilihan 1.1 :
+
+![image](https://github.com/user-attachments/assets/88187de0-cdf6-4dcb-ac15-e99e36b5dce0)
+
+Pilihan 1.2 :
+
+![image](https://github.com/user-attachments/assets/493e4d44-b4ea-44b0-b801-e8bc00c67b85)
+
+
+Pilihan 2:
+
+![image](https://github.com/user-attachments/assets/03f5b688-2768-45b1-8d17-29c8743832ec)
+
+Pilihan 3.1
+
+![image](https://github.com/user-attachments/assets/deb2eafd-a050-4e36-a4cd-020fead4b256)
+
+Pilihan 3.2
+
+![image](https://github.com/user-attachments/assets/d7bb989a-e127-47b3-bb2f-de7d795e2b7c)
+
+Pilihan 4
+
+![image](https://github.com/user-attachments/assets/6c9aa970-1a02-4185-990f-0bb7c611cc18)
+
+
+
+
+
+
+
+
+
+
 
 
 
