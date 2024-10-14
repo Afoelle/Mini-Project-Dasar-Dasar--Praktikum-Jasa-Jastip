@@ -124,7 +124,7 @@ Jika kita memilih pilihan 2: kita bisa menambahkan barang dengan memasukan nama,
 
 Jika kita memilih pilihan 3: akan muncul 2 pilihan lagi untuk meng-update barang yang dijual atau terjual dengan memasukan nama, harga dan jumlah
 
-Jika kita meMilih pilihan 4: kita bisa menghapus barang yang dijual dengan id barang
+Jika kita memilih pilihan 4: kita bisa menghapus barang yang dijual dengan id barang
 
 Jika kita memilih pilihan 5: kita akan kembali ke menu login
 
